@@ -81,7 +81,7 @@ ul{
     }
     
     #header svg {
-        fill: var(--red);
+        fill: red;
         width: 7em;
     }
     #header section span h3 {

@@ -1,7 +1,7 @@
 import React from 'react';
 import net from '../images/net.jpg'
 import device from '../images/device.png'
-import Main from './main'
+
 const Header=()=>{
     return(
         <div id='header'>
@@ -111,7 +111,7 @@ const Header=()=>{
             Ready to watch? Enter your email to create or restart your membership.
             </h6>
              <input type="email" placeholder='Email address'/>
-             <button className='btn btn-danger ' >GET STARTED </button>
+             <button className='btn btn-danger ' >GET STARTED</button>
              </span>
          </div>
          
