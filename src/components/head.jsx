@@ -80,7 +80,7 @@ const Header=()=>{
                     </p>
              </span>
              <span>
-                <img src={device} alt=" netflix image"/>
+                <img src={device} alt=" netflix "/>
              </span>
          </div>
          </div>
